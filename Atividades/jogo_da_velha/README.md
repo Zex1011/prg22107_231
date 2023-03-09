@@ -9,4 +9,4 @@
 | Fluxo Principal: | 1. O jogo da uma breve explicação das regras; 2.O jogo solicita e recebe a posição da primeira peça do jogador "X", logo em seguida pedindo o mesmo para o jogador "O"; 3. Segue-se repetindo estas solicitações até que a condição de vitória seja atendida por um dos jogadores ou todo o tabuleiro seja preenchido (empate); 4. É anunciado o vencedor (ou o empate) e o jogo recomeça. |
 
 ## DIAGRAMA DE CLASSE:
-![image](https://user-images.githubusercontent.com/53865438/224015795-ace878b3-bf51-4973-a244-64f0775c22fd.png)
+![image](https://user-images.githubusercontent.com/53865438/224018993-2e854965-326e-475b-a376-a34e20e656fd.png)
