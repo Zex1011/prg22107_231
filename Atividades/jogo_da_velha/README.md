@@ -1,7 +1,6 @@
 # JOGO DA VELHA:
 ## CASO DE USO:
 
-CASO DE USO:
 
 |||
 | ------ | ------ |
