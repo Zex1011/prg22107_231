@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Intimidar.png</file>
+    </qresource>
+</RCC>

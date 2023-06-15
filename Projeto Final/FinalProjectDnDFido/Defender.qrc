@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Defender.png</file>
+    </qresource>
+</RCC>
